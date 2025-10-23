@@ -4,6 +4,8 @@
 
 This project is built with:
 
+- Python
+- SQl
 - Vite
 - TypeScript
 - React
